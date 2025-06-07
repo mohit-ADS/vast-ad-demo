@@ -1,15 +1,15 @@
 <VAST version="3.0">
-  <Ad id="demo_ad_001">
+  <Ad id="shopify_video_ad">
     <InLine>
-      <AdTitle><![CDATA[ Demo VAST Video Ad ]]></AdTitle>
-      <AdSystem><![CDATA[ TestPlayer ]]></AdSystem>
+      <AdTitle><![CDATA[ Shopify Video Ad ]]></AdTitle>
+      <AdSystem><![CDATA[ GitHub Pages Player ]]></AdSystem>
       <Creatives>
         <Creative>
           <Linear>
             <Duration>00:00:30</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1280" height="720">
-                <![CDATA[ https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 ]]>
+                <![CDATA[ https://cdn.shopify.com/videos/c/o/v/a39e810bd41a4f5ea380c47b1d52ba50.mp4 ]]>
               </MediaFile>
             </MediaFiles>
           </Linear>
