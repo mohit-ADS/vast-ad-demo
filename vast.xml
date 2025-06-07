@@ -1,0 +1,20 @@
+<VAST version="3.0">
+  <Ad id="demo_ad_001">
+    <InLine>
+      <AdTitle><![CDATA[ Demo VAST Video Ad ]]></AdTitle>
+      <AdSystem><![CDATA[ TestPlayer ]]></AdSystem>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:30</Duration>
+            <MediaFiles>
+              <MediaFile delivery="progressive" type="video/mp4" width="1280" height="720">
+                <![CDATA[ https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 ]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
